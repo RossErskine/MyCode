@@ -1,0 +1,15 @@
+﻿  Book_shelf.cpp
+  chapter_9.cpp
+  Generating Code...
+Book_shelf.obj : error LNK2005: "public: __thiscall Chron::Date::Date(class Chron::Year,enum Chron::Month,int)" (??0Date@Chron@@QAE@VYear@1@W4Month@1@H@Z) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl Chron::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Chron::Date const &)" (??6Chron@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@ABVDate@0@@Z) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl Chron::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,class Chron::Year const &)" (??6Chron@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@ABVYear@0@@Z) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl Chron::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > &,enum Chron::Month)" (??6Chron@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@AAV12@W4Month@0@@Z) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "enum Chron::Month __cdecl Chron::operator++(enum Chron::Month &)" (??EChron@@YA?AW4Month@0@AAW410@@Z) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "public: void __thiscall Chron::Date::add_day(int)" (?add_day@Date@Chron@@QAEXH@Z) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "public: void __thiscall Chron::Date::add_month(void)" (?add_month@Date@Chron@@QAEXXZ) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "public: void __thiscall Chron::Date::add_year(int)" (?add_year@Date@Chron@@QAEXH@Z) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "void __cdecl Chron::drill_9_7_4(void)" (?drill_9_7_4@Chron@@YAXXZ) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "void __cdecl Chron::runDrills(void)" (?runDrills@Chron@@YAXXZ) already defined in chapter_9.obj
+Book_shelf.obj : error LNK2005: "class std::vector<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::allocator<class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > > > Chron::month_tbl" (?month_tbl@Chron@@3V?$vector@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@V?$allocator@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@2@@std@@A) already defined in chapter_9.obj
+D:\DDocuments\C++\C++ Stroustrup challenges\chapter_9\Debug\chapter_9.exe : fatal error LNK1169: one or more multiply defined symbols found
