@@ -1,0 +1,37 @@
+﻿  Chapter4.cpp
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\DoubleVec.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\DoubleVec.h(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\DoubleVec.h(76,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Sentence.h(57,24): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\numeric(35,26): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\numeric(44): message : see reference to function template instantiation '_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\DoubleVec.h(34): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+  Exercises.cpp
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\DoubleVec.h(25,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\DoubleVec.h(60,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\DoubleVec.h(76,45): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Exercises.cpp(42,40): error C2660: 'wordVec::GetTen': function does not take 0 arguments
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\wordVec.h(100,16): message : see declaration of 'wordVec::GetTen'
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Exercises.cpp(44,7): error C3867: 'wordVec::GetTen': non-standard syntax; use '&' to create a pointer to member
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Exercises.cpp(44,7): error C2109: subscript requires array or pointer type
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Exercises.cpp(52,7): error C3867: 'wordVec::GetTen': non-standard syntax; use '&' to create a pointer to member
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Exercises.cpp(52,7): error C2109: subscript requires array or pointer type
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Exercises.cpp(60,7): error C3867: 'wordVec::GetTen': non-standard syntax; use '&' to create a pointer to member
+C:\Users\hp\Documents\C++ Stroustrup challenges\Chapter4\Chapter4\Exercises.cpp(60,7): error C2109: subscript requires array or pointer type
+  wordVec.cpp
+  Generating Code...
