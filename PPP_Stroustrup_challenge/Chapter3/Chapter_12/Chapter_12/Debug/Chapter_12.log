@@ -1,0 +1,9 @@
+﻿  Chapter12.cpp
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Chapter_12\GUI.h(107,31): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Chapter_12\GUI.h(112,31): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Chapter_12\GUI.h(117,31): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Chapter_12\Graph.h(104,2): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Chapter_12\Graph.h(104): message : while compiling class template member function 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)'
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Chapter_12\GUI.h(97): message : see reference to function template instantiation 'Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)' being compiled
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Chapter_12\GUI.h(99): message : see reference to class template instantiation 'Graph_lib::Vector_ref<Graph_lib::Button>' being compiled
+  Chapter_12.vcxproj -> D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_12\Debug\Chapter_12.exe
