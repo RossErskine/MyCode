@@ -1,0 +1,10 @@
+﻿  Chapter_11.cpp
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_11\Chapter_11\Excersises.h(369,19): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_11\Chapter_11\Excersises.h(403,20): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_11\Chapter_11\Excersises.h(690,20): warning C4244: 'argument': conversion from 'double' to 'const _Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_11\Chapter_11\Excersises.h(698,20): warning C4018: '<': signed/unsigned mismatch
+  Chapter_11.vcxproj -> D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_11\Debug\Chapter_11.exe
