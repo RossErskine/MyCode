@@ -1,0 +1,3 @@
+﻿  Chapter6.cpp
+D:\DDocuments\C++ challaenges\Chapter6\Chapter6\SimpleCalc.h(109,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Chapter6.vcxproj -> D:\DDocuments\C++ challaenges\Chapter6\Debug\Chapter6.exe
