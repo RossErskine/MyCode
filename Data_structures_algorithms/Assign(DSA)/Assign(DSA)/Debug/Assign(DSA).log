@@ -1,0 +1,5 @@
+﻿  ContVsArrayTest.cpp
+D:\DDocuments\Assign(DSA)\Assign(DSA)\Binary_search.h(84): warning C4715: 'Binary_search<int>::binarySearch_std_arr<10>': not all control paths return a value
+D:\DDocuments\Assign(DSA)\Assign(DSA)\Binary_search.h(84): warning C4715: 'Binary_search<int>::binarySearch_std_arr<100>': not all control paths return a value
+D:\DDocuments\Assign(DSA)\Assign(DSA)\Binary_search.h(84): warning C4715: 'Binary_search<int>::binarySearch_std_arr<1000>': not all control paths return a value
+  Assign(DSA).vcxproj -> D:\DDocuments\Assign(DSA)\Debug\Assign(DSA).exe
