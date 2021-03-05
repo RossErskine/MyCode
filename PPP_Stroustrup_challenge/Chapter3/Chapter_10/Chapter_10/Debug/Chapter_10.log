@@ -1,0 +1,3 @@
+﻿  Chapter_10.cpp
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10\Chapter_10\SimpleCalc.h(187,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Chapter_10.vcxproj -> D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10\Debug\Chapter_10.exe
