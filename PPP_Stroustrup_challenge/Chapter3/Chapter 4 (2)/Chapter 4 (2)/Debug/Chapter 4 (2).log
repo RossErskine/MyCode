@@ -1,0 +1,7 @@
+﻿  Exercise.cpp
+D:\DDocuments\C++ challaenges\Chapter 4 (2)\Chapter 4 (2)\myVector.h(37,2): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++ challaenges\Chapter 4 (2)\Chapter 4 (2)\myVector.h(35): message : while compiling class template member function 'void myVector<int>::display_vec(void)'
+D:\DDocuments\C++ challaenges\Chapter 4 (2)\Chapter 4 (2)\Exercise.cpp(43): message : see reference to function template instantiation 'void myVector<int>::display_vec(void)' being compiled
+D:\DDocuments\C++ challaenges\Chapter 4 (2)\Chapter 4 (2)\Exercise.h(17): message : see reference to class template instantiation 'myVector<int>' being compiled
+D:\DDocuments\C++ challaenges\Chapter 4 (2)\Chapter 4 (2)\myVector.h(19): warning C4172: returning address of local variable or temporary
+  Chapter 4 (2).vcxproj -> D:\DDocuments\C++ challaenges\Chapter 4 (2)\Debug\Chapter 4 (2).exe
