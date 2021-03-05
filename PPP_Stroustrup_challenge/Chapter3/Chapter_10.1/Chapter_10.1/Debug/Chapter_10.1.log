@@ -1,0 +1,8 @@
+﻿  Chapter_10.1.cpp
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10.1\Chapter_10.1\Temp_readings.h(83,13): error C3861: 'month_to_int': identifier not found
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10.1\Chapter_10.1\Temp_readings.h(89,8): error C3861: 'is_valid': identifier not found
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10.1\Chapter_10.1\Temp_readings.h(167,7): error C2676: binary '<<': 'std::ofstream' does not define this operator or a conversion to a type acceptable to the predefined operator
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10.1\Chapter_10.1\Temp_readings.h(170,9): error C2676: binary '<<': 'std::ofstream' does not define this operator or a conversion to a type acceptable to the predefined operator
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10.1\Chapter_10.1\Temp_readings.h(172,23): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10.1\Chapter_10.1\Temp_readings.h(173,24): warning C4018: '<': signed/unsigned mismatch
+D:\DDocuments\C++\C++ Stroustrup challenges\Chapter_10.1\Chapter_10.1\Temp_readings.h(176,12): error C2676: binary '<<': 'std::ofstream' does not define this operator or a conversion to a type acceptable to the predefined operator
