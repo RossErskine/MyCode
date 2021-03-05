@@ -1,0 +1,24 @@
+﻿  Chapter_8.cpp
+D:\DDocuments\C++ Stroustrup challenges\C++ challaenges\Chapter_8\Chapter_8\exercises.h(192,11): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+D:\DDocuments\C++ Stroustrup challenges\C++ challaenges\Chapter_8\Chapter_8\exercises.h(213,15): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\numeric(35,26): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\numeric(44): message : see reference to function template instantiation '_Ty std::accumulate<_InIt,_Ty,std::plus<void>>(const _InIt,const _InIt,_Ty,_Fn)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,
+              _Fn=std::plus<void>
+          ]
+D:\DDocuments\C++ Stroustrup challenges\C++ challaenges\Chapter_8\Chapter_8\exercises.h(186): message : see reference to function template instantiation '_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>,int>(const _InIt,const _InIt,_Ty)' being compiled
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<double>>>
+          ]
+D:\DDocuments\C++ Stroustrup challenges\C++ challaenges\Chapter_8\Chapter_8\SimpleCalc.h(262): warning C4715: 'Symbol_table::is_declared': not all control paths return a value
+D:\DDocuments\C++ Stroustrup challenges\C++ challaenges\Chapter_8\Chapter_8\exercises.h(108): warning C4715: 'duplicates<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': not all control paths return a value
+  Chapter_8.vcxproj -> D:\DDocuments\C++ Stroustrup challenges\C++ challaenges\Chapter_8\Debug\Chapter_8.exe
